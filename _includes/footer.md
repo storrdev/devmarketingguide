@@ -1,0 +1,1 @@
+Copyright (c) {{ site.footer }} 20{{ site.time | date: '%y' }}
